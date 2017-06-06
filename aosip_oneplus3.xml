@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>AOSiP</RomName>
+  <VersionName>20170606</VersionName>
+  <VersionNumber type="integer">20170606</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/oneplus3/AOSiP-6.0-Official-oneplus3-20170606.zip</DirectUrl>
+  <HttpUrl>http://get.aosiprom.com/oneplus3</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>MD5 HERE</CheckMD5>
+  <FileSize type="integer">420147739</FileSize>
+  <Developer>Team Illusion</Developer>
+  <WebsiteURL>http://www.aosiprom.com</WebsiteURL>
+  <DonateURL>http://www.paypal.me/aosip</DonateURL>
+  <Changelog>### Changelog 20170606
+* Rebased to JDC AOSP 7.1.2_r8 base</Changelog>
+</ROM>
