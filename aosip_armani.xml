@@ -2,12 +2,12 @@
 <ROM>
   <RomName>AOSiP</RomName>
   <VersionName>6.0</VersionName>
-  <VersionNumber type="integer">20170606</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/armani/AOSiP-6.0-Official-armani-20170606.zip</DirectUrl>
+  <VersionNumber type="integer">20170607</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/armani/AOSiP-6.0-Official-armani-20170607.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>360f79d0378aa591fddbf040d38f99bd</CheckMD5>
-  <FileSize type="integer">314591247</FileSize>
+  <CheckMD5>19adfec737eb7ec11f7c544da3b460c1</CheckMD5>
+  <FileSize type="integer">314689720</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
