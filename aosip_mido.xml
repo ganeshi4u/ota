@@ -2,12 +2,12 @@
 <ROM>
   <RomName>AOSiP</RomName>
   <VersionName>6.0</VersionName>
-  <VersionNumber type="integer">20170606</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/mido/AOSiP-6.0-Official-mido-20170606.zip</DirectUrl>
+  <VersionNumber type="integer">20170607</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/mido/AOSiP-6.0-Official-mido-20170607.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>389a24bffb849bdfccb5aff3b04106bd</CheckMD5>
-  <FileSize type="integer">540061332</FileSize>
+  <CheckMD5>dbaf9e4c07f419ba0648ee0c95ec9e5b</CheckMD5>
+  <FileSize type="integer">539817769</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
