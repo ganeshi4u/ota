@@ -2,12 +2,12 @@
 <ROM>
   <RomName>AOSiP</RomName>
   <VersionName>6.0</VersionName>
-  <VersionNumber type="integer">20170606</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/oneplus2/AOSiP-6.0-Official-oneplus2-20170606.zip</DirectUrl>
+  <VersionNumber type="integer">20170607</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/oneplus2/AOSiP-6.0-Official-oneplus2-20170607.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>fc11498c656a2c93c606115c82a8c2f1</CheckMD5>
-  <FileSize type="integer">439975192</FileSize>
+  <CheckMD5>d0730598aca41db1721094efd4556cfc</CheckMD5>
+  <FileSize type="integer">439692933</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
