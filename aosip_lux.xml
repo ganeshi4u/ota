@@ -2,12 +2,12 @@
 <ROM>
   <RomName>AOSiP</RomName>
   <VersionName>6.0</VersionName>
-  <VersionNumber type="integer">20170606</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/lux/AOSiP-6.0-Official-lux-20170606.zip</DirectUrl>
+  <VersionNumber type="integer">20170607</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/lux/AOSiP-6.0-Official-lux-20170607.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>cae2a4800f6d00a4711058987f339d4c</CheckMD5>
-  <FileSize type="integer">330255308</FileSize>
+  <CheckMD5>bef7126d56f3a6ff1765d57630c0164e</CheckMD5>
+  <FileSize type="integer">330349041</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
