@@ -2,12 +2,12 @@
 <ROM>
   <RomName>AOSiP</RomName>
   <VersionName>6.0</VersionName>
-  <VersionNumber type="integer">20170606</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/bacon/AOSiP-6.0-Official-bacon-20170606.zip</DirectUrl>
+  <VersionNumber type="integer">20170607</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/bacon/AOSiP-6.0-Official-bacon-20170607.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>7b666ab669316027bed999705710dc5d</CheckMD5>
-  <FileSize type="integer">320247919</FileSize>
+  <CheckMD5>1f11cec0a73f314435dd84b437562901</CheckMD5>
+  <FileSize type="integer">321745910</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
