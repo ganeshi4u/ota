@@ -2,12 +2,12 @@
 <ROM>
   <RomName>AOSiP</RomName>
   <VersionName>6.0</VersionName>
-  <VersionNumber type="integer">20170606</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/oneplus3/AOSiP-6.0-Official-oneplus3-20170606.zip</DirectUrl>
+  <VersionNumber type="integer">20170607</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/oneplus3/AOSiP-6.0-Official-oneplus3-20170607.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>1ffe174da70183065cbb0120a65c8d31</CheckMD5>
-  <FileSize type="integer">482777696</FileSize>
+  <CheckMD5>38dcf11aca30d2430975fe6b35c23fcd</CheckMD5>
+  <FileSize type="integer">482549156</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>

@@ -2,12 +2,12 @@
 <ROM>
   <RomName>AOSiP</RomName>
   <VersionName>6.0</VersionName>
-  <VersionNumber type="integer">20170606</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/angler/AOSiP-6.0-Official-angler-20170606.zip</DirectUrl>
+  <VersionNumber type="integer">20170607</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/angler/AOSiP-6.0-Official-angler-20170607.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>526703928236659ad0d6f91a1fa2d27f</CheckMD5>
-  <FileSize type="integer">373295357</FileSize>
+  <CheckMD5>98ee1e1680685c84ca7c31d76b7fbe51</CheckMD5>
+  <FileSize type="integer">373032608</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
